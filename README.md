@@ -2,13 +2,13 @@
 
 Goal:
 To analyze world population trends from 1970–2022 and predict future population growth using machine learning models
-GPF
+
 
 
 Dataset:
 Contains population data for each country (1970–2022)
 Includes: population count, continent, area, density, growth rate, and share of world population
-GPF
+
 
 
 Steps Followed:
@@ -17,7 +17,7 @@ Data Cleaning:
 Converted wide-year format into a long format (one “Year” column).
 Handled missing values.
 Prepared features such as lagged population (Pop_lag1) for modeling
-GPF
+
 
 Exploratory Analysis:
 Used Power BI to visualize trends and insights.
